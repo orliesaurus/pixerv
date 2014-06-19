@@ -1,0 +1,9 @@
+{ 
+  "name": "pixerv",
+  "version": "0.0.0",
+  "description": "Serve Pixels. Track Pixels",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0"
+  }
+}
