@@ -2,8 +2,15 @@
   "name": "pixerv",
   "version": "0.0.0",
   "description": "Serve Pixels. Track Pixels",
+  "homepage":"https://github.com/orliesaurus/pixerv",
+  "license":"MIT",
   "main": "server.js",
   "dependencies": {
     "express": "~4.0.0"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/orliesaurus/pixserv.git"
   }
+
 }
